@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;notificador&apos; in &apos;com.algaworks.di.Main.main(...)&apos; to &apos;notificadorEmail&apos;&#x0D;&#x0A;- Original project: &apos;exemplo-di&apos;&#x0D;&#x0A;- Original element: &apos;com.algaworks.di.Main.main(String[]).notificador&apos;&#x0D;&#x0A;- Renamed element: &apos;notificador&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;notificador&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.algaworks.di{Main.java[Main~main~\[QString;@notificador!452!500!464!474!QNotificador;!0!false" name="notificadorEmail" references="true" stamp="1616419109050" version="1.0"/>
+</session>

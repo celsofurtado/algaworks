@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.algaworks.algafood.di.modelo.Cliente"/>
+    <fullyQualifiedTypeName name="com.algaworks.algafood.di.notificacao.NotificadorEmail"/>
+    <fullyQualifiedTypeName name="com.algaworks.algafood.di.notificacao.Notificador"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Primary"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+    <fullyQualifiedTypeName name="com.algaworks.algafood.di.notificacao.NivelUrgencia"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Profile"/>
+    <fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+    <fullyQualifiedTypeName name="javax.annotation.PreDestroy"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="com.algaworks.algafood.di.service.AtivacaoClienteService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationEventPublisher"/>
+    <fullyQualifiedTypeName name="com.algaworks.algafood.di.notificacao.TipoDoNotificador"/>
+    <fullyQualifiedTypeName name="com.algaworks.algafood.di.service.ClienteAtivadoEvent"/>
+    <fullyQualifiedTypeName name="org.springframework.context.event.EventListener"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.context.properties.ConfigurationProperties"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.algaworks.algafood.di.notificacao.NotificadorProperties"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="javax.persistence.PersistenceContext"/>
+    <fullyQualifiedTypeName name="aj.org.objectweb.asm.Type"/>
+    <fullyQualifiedTypeName name="javax.persistence.TypedQuery"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.builder.SpringApplicationBuilder"/>
+    <fullyQualifiedTypeName name="com.algaworks.algafood.AlgafoodApiApplication"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.WebApplicationType"/>
+    <fullyQualifiedTypeName name="com.algaworks.algafood.jpa.CadastroCozinha"/>
+    <fullyQualifiedTypeName name="com.algaworks.algafood.domain.model.Cozinha"/>
+    <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="com.algaworks.algafood.domain.repository.CozinhaRepository"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+</qualifiedTypeNameHistroy>

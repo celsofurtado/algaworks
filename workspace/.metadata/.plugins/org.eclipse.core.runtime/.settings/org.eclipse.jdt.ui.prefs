@@ -1,0 +1,19 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.algaworks.algafood.di.modelo.Cliente"><rhs name\="com.algaworks.algafood.di.modelo.Cliente"/></lhs><lhs name\="com.algaworks.algafood.di.notificacao.Notificador"><rhs name\="com.algaworks.algafood.di.notificacao.NotificadorEmail"/></lhs><lhs name\="com.algaworks.algafood.di.notificacao.NotificadorEmail"><rhs name\="com.algaworks.algafood.di.notificacao.NotificadorEmail"/></lhs><lhs name\="com.algaworks.algafood.di.service.AtivacaoClienteService"><rhs name\="com.algaworks.algafood.di.service.AtivacaoClienteService"/></lhs><lhs name\="java.lang.Enum"><rhs name\="com.algaworks.algafood.di.notificacao.NivelUrgencia"/><rhs name\="org.springframework.boot.WebApplicationType"/></lhs><lhs name\="com.algaworks.algafood.di.notificacao.NivelUrgencia"><rhs name\="com.algaworks.algafood.di.notificacao.NivelUrgencia"/></lhs><lhs name\="com.algaworks.algafood.domain.model.Cozinha"><rhs name\="com.algaworks.algafood.domain.model.Cozinha"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=20
+spelling_ignore_ampersand_in_properties=true
+spelling_ignore_digits=true
+spelling_ignore_java_strings=true
+spelling_ignore_mixed=true
+spelling_ignore_non_letters=true
+spelling_ignore_sentence=true
+spelling_ignore_single_letters=true
+spelling_ignore_upper=true
+spelling_ignore_urls=true
+spelling_locale_initialized=true
+spelling_user_dictionary_encoding=
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
